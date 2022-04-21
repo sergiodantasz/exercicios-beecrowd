@@ -4,6 +4,6 @@ Repositório dedicado à postagem das resoluções dos exercícios disponíveis 
 Deseja ver meu perfil no Beecrowd? [Clique aqui.](https://www.beecrowd.com.br/judge/pt/profile/622958)
 
 # Status 🛠
-- Progresso: 0,96%
-- Exercícios Resolvidos: 22
-- Pontos: 61,76
+- Progresso: 1,09%
+- Exercícios Resolvidos: 25
+- Pontos: 71,74
